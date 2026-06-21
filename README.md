@@ -5,10 +5,10 @@
 ## 交互式运行脚本
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/hkzping999/ArgoX/main/argox.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/hkzping999/Argo/main/argox.sh)
 ```
 ```
-wget https://raw.githubusercontent.com/hkzping999/ArgoX/main/argox.sh -O argox.sh
+wget https://raw.githubusercontent.com/hkzping999/Argo/main/argox.sh -O argox.sh
 bash -n argox.sh
 sudo bash argox.sh
  ```
